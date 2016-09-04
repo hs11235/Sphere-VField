@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1458221960 source:g:\vfield sphere with point force\c++\combinedmodel\main.cpp
+	"Field.h"
+	"TransformedField.h"
+	"TransformedField.cpp"
+	"LapG.h"
+	<iostream>
+	<cmath>
+	<fstream>
+
+1458226900 g:\vfield sphere with point force\c++\combinedmodel\field.h
+	<cmath>
+
+1458165468 g:\vfield sphere with point force\c++\combinedmodel\lapg.h
+
+1458184194 g:\vfield sphere with point force\c++\combinedmodel\field.cpp
+	"Field.h"
+	"LapG.h"
+	<iostream>
+	<cmath>
+
+1458165504 g:\vfield sphere with point force\c++\combinedmodel\lapg.cpp
+	"LapG.h"
+	<cmath>
+
+1458226896 g:\vfield sphere with point force\c++\combinedmodel\transformedfield.h
+	"Field.h"
+	<cmath>
+
+1458183090 g:\vfield sphere with point force\c++\combinedmodel\transformedfield.cpp
+	"Field.h"
+	"Field.cpp"
+	"LapG.h"
+	"LapG.cpp"
+	"TransformedField.h"
+	<iostream>
+	<cmath>
+
+1462664526 source:f:\vfield sphere with point force\c++\combinedmodel\main.cpp
+	"Field.h"
+	"TransformedField.h"
+	"TransformedField.cpp"
+	"LapG.h"
+	<iostream>
+	<cmath>
+	<fstream>
+
+1458226900 f:\vfield sphere with point force\c++\combinedmodel\field.h
+	<cmath>
+
+1458226896 f:\vfield sphere with point force\c++\combinedmodel\transformedfield.h
+	"Field.h"
+	<cmath>
+
+1458183090 f:\vfield sphere with point force\c++\combinedmodel\transformedfield.cpp
+	"Field.h"
+	"Field.cpp"
+	"LapG.h"
+	"LapG.cpp"
+	"TransformedField.h"
+	<iostream>
+	<cmath>
+
+1458184194 f:\vfield sphere with point force\c++\combinedmodel\field.cpp
+	"Field.h"
+	"LapG.h"
+	<iostream>
+	<cmath>
+
+1462662608 f:\vfield sphere with point force\c++\combinedmodel\lapg.h
+
+1458165504 f:\vfield sphere with point force\c++\combinedmodel\lapg.cpp
+	"LapG.h"
+	<cmath>
+
+1462664526 source:d:\hayde\documents\c++\masters project\combinedmodel\main.cpp
+	"Field.h"
+	"TransformedField.h"
+	"TransformedField.cpp"
+	"LapG.h"
+	<iostream>
+	<cmath>
+	<fstream>
+
+1458226900 d:\hayde\documents\c++\masters project\combinedmodel\field.h
+	<cmath>
+
+1458226896 d:\hayde\documents\c++\masters project\combinedmodel\transformedfield.h
+	"Field.h"
+	<cmath>
+
+1458183090 d:\hayde\documents\c++\masters project\combinedmodel\transformedfield.cpp
+	"Field.h"
+	"Field.cpp"
+	"LapG.h"
+	"LapG.cpp"
+	"TransformedField.h"
+	<iostream>
+	<cmath>
+
+1458184194 d:\hayde\documents\c++\masters project\combinedmodel\field.cpp
+	"Field.h"
+	"LapG.h"
+	<iostream>
+	<cmath>
+
+1462662608 d:\hayde\documents\c++\masters project\combinedmodel\lapg.h
+
+1458165504 d:\hayde\documents\c++\masters project\combinedmodel\lapg.cpp
+	"LapG.h"
+	<cmath>
+
